@@ -1,0 +1,20 @@
+{
+  "predictions": [
+    "eligible",
+    "not_eligible"
+  ],
+  "probabilities": [
+    [
+      0.08,
+      0.92
+    ],
+    [
+      0.87,
+      0.13
+    ]
+  ],
+  "label_order": [
+    "not_eligible",
+    "eligible"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "instances": [
+    {
+      "age": 34,
+      "employment_type": "full_time",
+      "years_of_service": 5,
+      "weekly_hours": 40,
+      "department": "engineering",
+      "salary_band": "band_3",
+      "has_dependents": 1
+    },
+    {
+      "age": 27,
+      "employment_type": "part_time",
+      "years_of_service": 0,
+      "weekly_hours": 20,
+      "department": "sales",
+      "salary_band": "band_1",
+      "has_dependents": 0
+    }
+  ]
+}
