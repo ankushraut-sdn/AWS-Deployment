@@ -3,8 +3,6 @@
 ## 1. Project Overview
 
 **Project Name:** AWS-Deployment (Benefits Eligibility Model)
-**Project Type:** ML model deployment (AWS SageMaker)
-**Status:** Development
 
 ### Description
 
